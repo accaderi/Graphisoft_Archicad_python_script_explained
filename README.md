@@ -1,0 +1,2 @@
+# Graphisoft_Archicad_python_script_explained
+Explaining the Graphisoft own python scripts
