@@ -141,7 +141,7 @@ zClusters = createClusters((bb.boundingBox3D.zMin for bb in boundingBoxes), ROW_
 elementsWithBoundingBoxes = list(zip(elements, boundingBoxes))
 
 # rowindex will increase when all chairs in the actual row have their property values generated
-# and appended to the elemPropertyValues list. 
+# and appended to the elemPropertyValues list.
 rowIndex = 0
 elemPropertyValues = []
 
